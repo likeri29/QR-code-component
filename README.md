@@ -19,8 +19,8 @@ Frontend project with the challenge of building QR code component to look as clo
 
 ### Built with
 
--HTML
--CSS
+- HTML
+- CSS
 
 ## Author
 
